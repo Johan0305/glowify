@@ -85,3 +85,5 @@ products.map((product) => {
 
   productsContainer.appendChild(productDiv);
 });
+
+
